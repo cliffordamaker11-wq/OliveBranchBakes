@@ -1,0 +1,18 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OliveBranchBakes", "OliveBranchBakes\OliveBranchBakes.csproj", "{C1D9CFA8-3D32-4B77-A9F5-9E3F6E3C9A01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1D9CFA8-3D32-4B77-A9F5-9E3F6E3C9A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1D9CFA8-3D32-4B77-A9F5-9E3F6E3C9A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1D9CFA8-3D32-4B77-A9F5-9E3F6E3C9A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1D9CFA8-3D32-4B77-A9F5-9E3F6E3C9A01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
